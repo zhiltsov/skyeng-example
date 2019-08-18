@@ -1,0 +1,6 @@
+version: '3.3'
+services:
+  skyeng:
+    build:
+      context: .
+    image: zhiltsov/skyeng-example:latest
